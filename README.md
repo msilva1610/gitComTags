@@ -69,6 +69,20 @@ Uma outra forma curiosa é colocr um link para uma imagem. Exemplo:
 
 O ponto de exclamção no inicio informa que aparecerá apenas a imagem e o texto do link será omitido.
 
+
+## Recuperar parte do trabalho a partir de um commit
+
+Para issso execute é necessário identiifcar o id do commit e depois usar o comando:
+```
+git checkout 0647754fa5401cab77333939273bc143db3da4f8
+```
+
+Fazer isso em um outro diretório para um teste de temporário ou para desfazer um ponto do trabalho.
+
+Vide links:
+
+* https://pt.stackoverflow.com/questions/45077/como-recuperar-o-commit-anterior
+
 ## Cápitulos
 
 [01 - Criando o primeiro link](../../tree/0647754fa5401cab77333939273bc143db3da4f8) 
