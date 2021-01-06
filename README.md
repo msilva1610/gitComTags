@@ -61,6 +61,14 @@ A sintaxe acima permitirá que um link  para o commit local. O ID também servir
 
 Entre um link e outro é necessário criar uma linha em branco. Casso contrário o link ficará na mesma linha.
 
+Uma outra forma curiosa é colocr um link para uma imagem. Exemplo:
+
+```
+![Try Django 1.11 Logo](https://cfe2-static.s3-us-west-2.amazonaws.com/media/projects/try-django-111/images/share/try_django_1_11_share.png)
+```
+
+O ponto de exclamção no inicio informa que aparecerá apenas a imagem e o texto do link será omitido.
+
 ## Cápitulos
 
 [01 - Criando o primeiro link](../../tree/0647754fa5401cab77333939273bc143db3da4f8) 
