@@ -90,3 +90,6 @@ Vide links:
 [02 - Usando link](../../tree/764e66e9adca0ed3f7c8bf73d333780fcaa2ea5b) 
 
 [03 - Usando link corretamente](../../tree/6a1a1a2dbf03a1be7c32059579e9998ad3de41fb) 
+
+[04 - Notas finais](../../tree/44abec7449eb126cf4ed3fed156a0acd0af833db) 
+
