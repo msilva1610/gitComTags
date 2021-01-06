@@ -83,6 +83,10 @@ Vide links:
 
 * https://pt.stackoverflow.com/questions/45077/como-recuperar-o-commit-anterior
 
+Como boa prática, atualize o readme.md no final de um período para não poluir os commits com ids desnecessário.
+
+Ao atualizar criar um `git commit -m "Atualizando README"`. Simples assim. 
+
 ## Cápitulos
 
 [01 - Criando o primeiro link](../../tree/0647754fa5401cab77333939273bc143db3da4f8) 
