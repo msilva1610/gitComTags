@@ -66,3 +66,5 @@ Entre um link e outro é necessário criar uma linha em branco. Casso contrário
 [01 - Criando o primeiro link](../../tree/0647754fa5401cab77333939273bc143db3da4f8) 
 
 [02 - Usando link](../../tree/764e66e9adca0ed3f7c8bf73d333780fcaa2ea5b) 
+
+[03 - Usando link corretamente](../../tree/6a1a1a2dbf03a1be7c32059579e9998ad3de41fb) 
